@@ -12,3 +12,15 @@ A neural network with word embeddings.
 2083/3068
 
 1555 off first in RMSE
+
+## Loans
+### Difficulties
+The dataset tends to a good AUC value with little data wrangling, which makes difficult improving on the metric.
+
+### Algorithm
+An XGBoost with Polynomial features.
+
+### Results and Placement
+1436/3859
+
+0.01175 off first in AUC
